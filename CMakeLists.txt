@@ -18,7 +18,7 @@ cmake_minimum_required(VERSION 2.8.0)
 #     and make it
 #
 #     cd build
-#     cmake -DROCR_INC_DIR=ROCR_INC_DIR -DROCR_LIB_DIR=$ROCR_LIB_DIR ..
+#     cmake -DROCR_INC_DIR=$ROCR_INC_DIR -DROCR_LIB_DIR=$ROCR_LIB_DIR ..
 #     make
 #
 #     @note: Add -DCMAKE_BUILD_TYPE=Debug if you want to build Debug
